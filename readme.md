@@ -1,4 +1,4 @@
-# README - Given's and Hessenberg #
+# README - Given's and Hessenberg's algorithm #
 ## _Supervised by Mr. Vincent Neiger and Mr. Jeremy Berthomieu_
 
 This project was carried out by El Bouhali Mouataz and Jankovskaja Elina in the context of the EU MODEL: Numerical and Symbolic Algorithms Modeling. It was supervised by Mr. Jeremy Berthomieu in lectures and Vincent Neiger in tutorials.
